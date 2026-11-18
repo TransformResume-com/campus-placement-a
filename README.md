@@ -8,7 +8,7 @@
 
 ## About this template
 
-A one-page A4 resume with a header and logo, a table of education and certificates, and grey bars over each section title. Sections cover thesis and seminar, course projects, technical skills, work experience, and extra-curricular activities.
+A one-page A4 resume for IIT Bombay students and graduates applying for campus placements and internships. It has a header with a logo, an education and certificates table, and grey section bars for thesis, projects, skills, experience and activities.
 
 ## What is Transform Resume
 
