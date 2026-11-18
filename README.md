@@ -8,7 +8,7 @@
 
 ## About this template
 
-A one-page A4 resume for IIT Bombay students and graduates applying for campus placements and internships. It has a header with a logo, an education and certificates table, and grey section bars for thesis, projects, skills, experience and activities.
+An A4 resume for IIT Bombay students and graduates applying for campus placements and internships. It has a header with a logo, an education and certificates table, and grey section bars for thesis, projects, skills, experience and activities.
 
 ## What is Transform Resume
 
