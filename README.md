@@ -1,6 +1,6 @@
 # IIT Bombay Resume Template
 
-[Use this template on Transform Resume](https://www.transformresume.com/templates/iit-bombay-resume-template)
+[Use this template on Transform Resume](https://www.transformresume.com/templates/iit-bombay-resume-template?ref=github)
 
 ![IIT Bombay Resume Template](https://pub-2a22aac0f1e34517967474821ddbc27c.r2.dev/uploads/templates/thumbnails/01a1e7f1-9235-77db-a81e-0335d9198231/1795004675756.webp)
 
@@ -21,6 +21,6 @@ A free resume builder with templates and an AI assistant.
 
 ## How to make a resume with this template
 
-1. Open [Transform Resume](https://www.transformresume.com).
+1. Open [Transform Resume](https://www.transformresume.com/?ref=github).
 2. Pick IIT Bombay Resume Template in the template gallery.
 3. Add your own details in the editor. Export the PDF.
